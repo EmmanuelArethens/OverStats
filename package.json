@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/EmmanuelArethens/overstats#readme",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.4",
     "oversmash": "^1.2.2",
     "overwatch-js": "^1.6.0"
